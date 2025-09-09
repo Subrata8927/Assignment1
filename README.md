@@ -1,2 +1,2 @@
-# Assignment1
+# Assignment
 C Lab Assignments
